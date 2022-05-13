@@ -1,0 +1,210 @@
+,question,parent,type,treatment
+Region,Region,,,dummy
+Province,Province,,,dummy
+Commune,Commune,,,dummy
+Gender,Note the respondent's gender.,,,
+Age,How old are you?,,continue,
+Resp-18,A1. Are you responsible for anyone under the age of 18?,,,
+recCash,"A2. Have you or a member of your family received monetary assistance over the course of the last 6 months from humanitarian actors? For example: cash transfers, cash, or coupons.",,,
+Pbseeing,"A3. Do you have difficulty seeing, even if wearing glasses?",,,to_code
+PbHearing,"A4. Do you have difficulty hearing, even if using a hearing aid?",,,to_code
+PbWalking,A5. Do you have difficulty walking or climbing steps?,,,to_code
+PbConcent,A6. Do you have difficulty remembering or concentrating?,,,to_code
+PbSelfcare,A7. Do you have difficulty (with self-care such as) washing all over or dressing?,,,to_code
+PbComm,"A8. Using your usual (customary) language, do you have difficulty communicating, for example understanding or being understood?",,,to_code
+KnowHum,B1. Do you know how humanitarian organisations decide who receives humanitarian aid and who does not?,,,
+AppropBenef,B2. Does aid go to those who need it most?,,,to_code
+B3. Unregistered people,B3. Who is left out?/Unregistered people,AppropBenef,,cat
+B3. Newcomers,B3. Who is left out?/Newcomers,AppropBenef,,cat
+B3. Elderly,B3. Who is left out?/Elderly,AppropBenef,,cat
+B3. Sick people /chronically ill,B3. Who is left out?/Sick people /chronically ill,AppropBenef,,cat
+"B3. Persons with disabilities (types of disabilities: physical, visual, auditory, mental)","B3. Who is left out?/Persons with disabilities (types of disabilities: physical, visual, auditory, mental)",AppropBenef,,cat
+B3. Widows,B3. Who is left out?/Widows,AppropBenef,,cat
+B3. Ethnic minorities,B3. Who is left out?/Ethnic minorities,AppropBenef,,cat
+B3. Households with many members,B3. Who is left out?/Households with many members,AppropBenef,,cat
+B3. Women-headed households,B3. Who is left out?/Women-headed households,AppropBenef,,cat
+B3. Child-headed households,B3. Who is left out?/Child-headed households,AppropBenef,,cat
+B3. Unaccompanied children,B3. Who is left out?/Unaccompanied children,AppropBenef,,cat
+B3. Other,B3. Who is left out?/Other,AppropBenef,,cat
+B3. I don't want to answer,B3. Who is left out?/I don't want to answer,AppropBenef,,cat
+B4. They do not receive information about aid,B4. Why do you think these people are left out?/They do not receive information about aid,AppropBenef,,cat
+B4. Those responsible for registration or selection discriminate,B4. Why do you think these people are left out?/Those responsible for registration or selection discriminate,AppropBenef,,cat
+B4. They do not have the opportunity to register for humanitarian aid,B4. Why do you think these people are left out?/They do not have the opportunity to register for humanitarian aid,AppropBenef,,cat
+B4. Humanitarian organizations do not provide services in their region,B4. Why do you think these people are left out?/Humanitarian organizations do not provide services in their region,AppropBenef,,cat
+B4. The time of distribution/services does not suit them or the place is too far away,B4. Why do you think these people are left out?/The time of distribution/services does not suit them or the place is too far away,AppropBenef,,cat
+B4. Dangers on the road / the journey to get aid is dangerous,B4. Why do you think these people are left out?/Dangers on the road / the journey to get aid is dangerous,AppropBenef,,cat
+B4. Logistical arrangements to access goods and services are not adapted to these people's needs,B4. Why do you think these people are left out?/Logistical arrangements to access goods and services are not adapted to these people's needs,AppropBenef,,cat
+B4. Harassment at distribution points,B4. Why do you think these people are left out?/Harassment at distribution points,AppropBenef,,cat
+B4. Aid doesn't arrive in time for them,B4. Why do you think these people are left out?/Aid doesn't arrive in time for them,AppropBenef,,cat
+B4. Other,B4. Why do you think these people are left out?/Other,AppropBenef,,cat
+B4. I don't know,B4. Why do you think these people are left out?/I don't know,AppropBenef,,cat
+B4. I don't want to answer,B4. Why do you think these people are left out?/I don't want to answer,AppropBenef,,cat
+tensions,B5. Have you heard of tensions or disputes over humanitarian aid in the area?,,,
+consulted,"C1. Were you consulted about the humanitarian aid programming in your region? (targeting, needs assessment, proposed modalities, distribution schedule, etc.)",,,
+C8. Face to face with humanitarian workers,C8. How would you prefer to make any complaints you have?/Face to face with humanitarian workers,,,cat
+C8. Face-to-face with community leaders,C8. How would you prefer to make any complaints you have?/Face-to-face with community leaders,,,cat
+C8. Face to face with IDP leaders,C8. How would you prefer to make any complaints you have?/Face to face with IDP leaders,,,cat
+C8. Face-to-face with religious leaders,C8. How would you prefer to make any complaints you have?/Face-to-face with religious leaders,,,cat
+C8. Face to face with local authorities,C8. How would you prefer to make any complaints you have?/Face to face with local authorities,,,cat
+C8. Face to face with security forces,C8. How would you prefer to make any complaints you have?/Face to face with security forces,,,cat
+C8. Social Action Services,C8. How would you prefer to make any complaints you have?/Social Action Services,,,cat
+C8. Hotline/phone call,C8. How would you prefer to make any complaints you have?/Hotline/phone call,,,cat
+C8. Site Management Committee,C8. How would you prefer to make any complaints you have?/Site Management Committee,,,cat
+C8. NGO Complaint Office,C8. How would you prefer to make any complaints you have?/NGO Complaint Office,,,cat
+C8. Suggestion box,C8. How would you prefer to make any complaints you have?/Suggestion box,,,cat
+C8. I don't want to report a case of abuse,C8. How would you prefer to make any complaints you have?/I don't want to report a case of abuse,,,cat
+C8. Other,C8. How would you prefer to make any complaints you have?/Other,,,cat
+C8. I don't want to answer,C8. How would you prefer to make any complaints you have?/I don't want to answer,,,cat
+C9. Face to face with humanitarian workers,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face to face with humanitarian workers",,,cat
+C9. Face-to-face with community leaders,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face-to-face with community leaders",,,cat
+C9. Face to face with IDP leaders,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face to face with IDP leaders",,,cat
+C9. Face-to-face with religious leaders,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face-to-face with religious leaders",,,cat
+C9. Face to face with local authorities,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face to face with local authorities",,,cat
+C9. Face to face with security forces,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Face to face with security forces",,,cat
+C9. Social Action Services,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Social Action Services",,,cat
+C9. Hotline/phone call,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Hotline/phone call",,,cat
+C9. Site Management Committee,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Site Management Committee",,,cat
+C9. NGO Complaint Office,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/NGO Complaint Office",,,cat
+C9. Suggestion box,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Suggestion box",,,cat
+C9. I don't want to report a case of abuse,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/I don't want to report a case of abuse",,,cat
+C9. Other,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/Other",,,cat
+C9. I don't want to answer,"C9. If a case of abuse, harassment or mistreatment by humanitarian staff or an NGO occurs, how do you prefer to report abuses?/I don't want to answer",,,cat
+FeelInformed,D1. Do you feel informed about the kind of aid/services available to you?,,,to_code
+D2. Registration services,D2. What information do you need?/Registration services,FeelInformed,,cat
+D2. Timing of distributions,D2. What information do you need?/Timing of distributions,FeelInformed,,cat
+D2. Financial assistance available,D2. What information do you need?/Financial assistance available,FeelInformed,,cat
+D2. Health (and mental health) services available,D2. What information do you need?/Health (and mental health) services available,FeelInformed,,cat
+D2. Suggestion/complaint mechanisms,D2. What information do you need?/Suggestion/complaint mechanisms,FeelInformed,,cat
+D2. Security situation,D2. What information do you need?/Security situation,FeelInformed,,cat
+"D2. Legal services (legal status, documentation)","D2. What information do you need?/Legal services (legal status, documentation)",FeelInformed,,cat
+"D2. Water, hygiene and sanitation services available","D2. What information do you need?/Water, hygiene and sanitation services available",FeelInformed,,cat
+D2. Food assistance,D2. What information do you need?/Food assistance,FeelInformed,,cat
+D2. Access to education,D2. What information do you need?/Access to education,FeelInformed,,cat
+D2. Accompanying feedback/information on the context of the place of origin,D2. What information do you need?/Accompanying feedback/information on the context of the place of origin,FeelInformed,,cat
+D2. Rehabilitation services/technical aids,D2. What information do you need?/Rehabilitation services/technical aids,FeelInformed,,cat
+D2. Other,D2. What information do you need?/Other,FeelInformed,,cat
+CommLeadShareInfo,D3. Do you think that community leaders are sharing key information on humanitarian activities?,,,to_code
+D4. Face to face with humanitarian workers,D4. How would you prefer to receive information from humanitarian actors?/Face to face with humanitarian workers,,,cat
+D4. Face-to-face community leaders,D4. How would you prefer to receive information from humanitarian actors?/Face-to-face community leaders,,,cat
+D4. Face to face with IDP leaders,D4. How would you prefer to receive information from humanitarian actors?/Face to face with IDP leaders,,,cat
+D4. Face-to-face with religious leaders,D4. How would you prefer to receive information from humanitarian actors?/Face-to-face with religious leaders,,,cat
+D4. Face to face with local authorities,D4. How would you prefer to receive information from humanitarian actors?/Face to face with local authorities,,,cat
+D4. Face to face with security forces,D4. How would you prefer to receive information from humanitarian actors?/Face to face with security forces,,,cat
+D4. Social Action's services,D4. How would you prefer to receive information from humanitarian actors?/Social Action's services,,,cat
+D4. Site Management Committee,D4. How would you prefer to receive information from humanitarian actors?/Site Management Committee,,,cat
+D4. Community meetings,D4. How would you prefer to receive information from humanitarian actors?/Community meetings,,,cat
+D4. Local information desk,D4. How would you prefer to receive information from humanitarian actors?/Local information desk,,,cat
+D4. Hotline,D4. How would you prefer to receive information from humanitarian actors?/Hotline,,,cat
+D4. Public announcer,D4. How would you prefer to receive information from humanitarian actors?/Public announcer,,,cat
+D4. Radio,D4. How would you prefer to receive information from humanitarian actors?/Radio,,,cat
+D4. Television,D4. How would you prefer to receive information from humanitarian actors?/Television,,,cat
+D4. SMS,D4. How would you prefer to receive information from humanitarian actors?/SMS,,,cat
+"D4. Accessible devices (for deaf people, blind people, etc.)","D4. How would you prefer to receive information from humanitarian actors?/Accessible devices (for deaf people, blind people, etc.)",,,cat
+D4. Other,D4. How would you prefer to receive information from humanitarian actors?/Other,,,cat
+D4. phone call,D4. How would you prefer to receive information from humanitarian actors?/phone call,,,cat
+Notsafe,E1. Are there times during your day when you don't feel safe where you live?,,,
+WhereUnsafe,E2. Where is the place where you feel the most unsafe?,Notsafe,,dummy
+E3. Morning,E3. What time during the day do you not feel safe in that place?/Morning,Notsafe,,cat
+E3. Afternoon,E3. What time during the day do you not feel safe in that place?/Afternoon,Notsafe,,cat
+E3. Evening,E3. What time during the day do you not feel safe in that place?/Evening,Notsafe,,cat
+E3. Night,E3. What time during the day do you not feel safe in that place?/Night,Notsafe,,cat
+E3. This feeling is not related to the time of day,E3. What time during the day do you not feel safe in that place?/This feeling is not related to the time of day,Notsafe,,cat
+E3. Anytime I am in that place (always),E3. What time during the day do you not feel safe in that place?/Anytime I am in that place (always),Notsafe,,cat
+E3. I don't want to answer,E3. What time during the day do you not feel safe in that place?/I don't want to answer,Notsafe,,cat
+E4. No security forces in this area,E4. Why do you not feel safe in that place?/No security forces in this area,Notsafe,,cat
+E4. The presence of self-defence groups,E4. Why do you not feel safe in that place?/The presence of self-defence groups,Notsafe,,cat
+E4. Many IDPs,E4. Why do you not feel safe in that place?/Many IDPs,Notsafe,,cat
+E4. Overcrowded sites,E4. Why do you not feel safe in that place?/Overcrowded sites,Notsafe,,cat
+E4. Poorly built/unsuitable shelter,E4. Why do you not feel safe in that place?/Poorly built/unsuitable shelter,Notsafe,,cat
+E4. Lack of lighting,E4. Why do you not feel safe in that place?/Lack of lighting,Notsafe,,cat
+E4. Flood zone,E4. Why do you not feel safe in that place?/Flood zone,Notsafe,,cat
+E4. Lack of latrine /safe shower space / not adapted,E4. Why do you not feel safe in that place?/Lack of latrine /safe shower space / not adapted,Notsafe,,cat
+E4. Latrine / shower not separated (men/women),E4. Why do you not feel safe in that place?/Latrine / shower not separated (men/women),Notsafe,,cat
+E4. Tensions/abuse/exploitation between host and displaced communities,E4. Why do you not feel safe in that place?/Tensions/abuse/exploitation between host and displaced communities,Notsafe,,cat
+E4. Tensions/abuse/exploitation between farmers and herders,E4. Why do you not feel safe in that place?/Tensions/abuse/exploitation between farmers and herders,Notsafe,,cat
+E4. Armed attacks,E4. Why do you not feel safe in that place?/Armed attacks,Notsafe,,cat
+E4. Physical violence (including murder),E4. Why do you not feel safe in that place?/Physical violence (including murder),Notsafe,,cat
+E4. Verbal abuse,E4. Why do you not feel safe in that place?/Verbal abuse,Notsafe,,cat
+E4. Sexual violence,E4. Why do you not feel safe in that place?/Sexual violence,Notsafe,,cat
+E4. Attacks on public buildings (schools/hospitals),E4. Why do you not feel safe in that place?/Attacks on public buildings (schools/hospitals),Notsafe,,cat
+E4. Theft,E4. Why do you not feel safe in that place?/Theft,Notsafe,,cat
+E4. Recruitment / forced enlistment,E4. Why do you not feel safe in that place?/Recruitment / forced enlistment,Notsafe,,cat
+E4. Physical mutilation,E4. Why do you not feel safe in that place?/Physical mutilation,Notsafe,,cat
+E4. Arbitrary and unlawful arrest and detention,E4. Why do you not feel safe in that place?/Arbitrary and unlawful arrest and detention,Notsafe,,cat
+E4. Other,E4. Why do you not feel safe in that place?/Other,Notsafe,,cat
+E4. I don't want to answer,E4. Why do you not feel safe in that place?/I don't want to answer,Notsafe,,cat
+SafeReceiving,"E5. Do you feel safe when on your way to collect goods, amounts of money, or humanitarian services?",,,to_code
+E6. Fear of not receiving aid,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Fear of not receiving aid,SafeReceiving,,cat
+E6. Theft in general,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Theft in general,SafeReceiving,,cat
+E6. Theft because I have good with me when returning home,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Theft because I have good with me when returning home,SafeReceiving,,cat
+"E6. Dangers on the route, in general","E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Dangers on the route, in general",SafeReceiving,,cat
+E6. Dangers on the route after a certain time,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Dangers on the route after a certain time,SafeReceiving,,cat
+E6. Kidnapping,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Kidnapping,SafeReceiving,,cat
+E6. Physical violence,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Physical violence,SafeReceiving,,cat
+E6. Verbal violence,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Verbal violence,SafeReceiving,,cat
+E6. Sexual violence,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Sexual violence,SafeReceiving,,cat
+E6. Other,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/Other,SafeReceiving,,cat
+E6. I don't want to answer,E6. Why don't you feel safe when you're on your way to get humanitarian aid?/I don't want to answer,SafeReceiving,,cat
+SafeSite,E7. Do you feel safe at the distribution sites?,,,to_code
+E8. Theft,E8. Why don't you feel safe at distribution sites?/Theft,SafeSite,,cat
+E8. Harassment at distribution points,E8. Why don't you feel safe at distribution sites?/Harassment at distribution points,SafeSite,,cat
+"E8. Overcrowded sites (risk of falling, being trampled, jostling)","E8. Why don't you feel safe at distribution sites?/Overcrowded sites (risk of falling, being trampled, jostling)",SafeSite,,cat
+E8. Lack of information on how the site works,E8. Why don't you feel safe at distribution sites?/Lack of information on how the site works,SafeSite,,cat
+E8. End of distribution,E8. Why don't you feel safe at distribution sites?/End of distribution,SafeSite,,cat
+E8. Not eligible,E8. Why don't you feel safe at distribution sites?/Not eligible,SafeSite,,cat
+E8. Physical violence,E8. Why don't you feel safe at distribution sites?/Physical violence,SafeSite,,cat
+E8. Verbal abuse,E8. Why don't you feel safe at distribution sites?/Verbal abuse,SafeSite,,cat
+E8. Sexual violence,E8. Why don't you feel safe at distribution sites?/Sexual violence,SafeSite,,cat
+E8. Other,E8. Why don't you feel safe at distribution sites?/Other,SafeSite,,cat
+E8. I don't want to answer,E8. Why don't you feel safe at distribution sites?/I don't want to answer,SafeSite,,cat
+NeedPsychoSupp,"E10. Given the current context, do you think you or your community is in need of psychological support?",,,to_code
+CoverEssentialNeeds,F1. Does the assistance received cover your most important needs?,,,to_code
+"F2. Water, Hygiene and Sanitation (access to drinking water, hygiene kits, toilets, showers)","F2. What are your unmet needs?/Water, Hygiene and Sanitation (access to drinking water, hygiene kits, toilets, showers)",CoverEssentialNeeds,,cat
+F2. Food,F2. What are your unmet needs?/Food,CoverEssentialNeeds,,cat
+"F2. Non-food items (clothes, kitchen utensils)","F2. What are your unmet needs?/Non-food items (clothes, kitchen utensils)",CoverEssentialNeeds,,cat
+F2. Psychological support (mental health services),F2. What are your unmet needs?/Psychological support (mental health services),CoverEssentialNeeds,,cat
+"F2. Health (vaccine, medical treatments, medical expense coverage)","F2. What are your unmet needs?/Health (vaccine, medical treatments, medical expense coverage)",CoverEssentialNeeds,,cat
+F2. Education (children's school),F2. What are your unmet needs?/Education (children's school),CoverEssentialNeeds,,cat
+F2. Shelters (building/repairing shelters),F2. What are your unmet needs?/Shelters (building/repairing shelters),CoverEssentialNeeds,,cat
+"F2. Protection (legal service, prevention and protection related to GBV, mediation, support to receive an identity document)","F2. What are your unmet needs?/Protection (legal service, prevention and protection related to GBV, mediation, support to receive an identity document)",CoverEssentialNeeds,,cat
+"F2. Livelihoods (professional training, means for agriculture, income-generating activities)","F2. What are your unmet needs?/Livelihoods (professional training, means for agriculture, income-generating activities)",CoverEssentialNeeds,,cat
+"F2. Technical aids to sight or mobility (glasses, hearing aids, crutches, armchair, tricycle)","F2. What are your unmet needs?/Technical aids to sight or mobility (glasses, hearing aids, crutches, armchair, tricycle)",CoverEssentialNeeds,,cat
+F2. Other,F2. What are your unmet needs?/Other,CoverEssentialNeeds,,cat
+F2. cash / monetary assistance,F2. What are your unmet needs?/cash / monetary assistance,CoverEssentialNeeds,,cat
+RecAidTime,"F7. Over the past six months, have you recieved aid when you need it?",,,to_code
+MakeLiving,G1. Can you and your immediate family make a living working in the local economy?,,,to_code
+G2. More education (elementary/intermediate/secondary education),G2. What do you think you need to make a living?/More education (elementary/intermediate/secondary education),MakeLiving,,cat
+G2. Specialized training for a job,G2. What do you think you need to make a living?/Specialized training for a job,MakeLiving,,cat
+G2. Tools to do my job (like agricultural tools),G2. What do you think you need to make a living?/Tools to do my job (like agricultural tools),MakeLiving,,cat
+"G2. Technical mobility aids (tricycle, wheelchair, white canes, glasses, crutches)","G2. What do you think you need to make a living?/Technical mobility aids (tricycle, wheelchair, white canes, glasses, crutches)",MakeLiving,,cat
+G2. Livestock/poultry,G2. What do you think you need to make a living?/Livestock/poultry,MakeLiving,,cat
+G2. Financing to be able to buy what I need for my work (micro-credit or bank loans),G2. What do you think you need to make a living?/Financing to be able to buy what I need for my work (micro-credit or bank loans),MakeLiving,,cat
+G2. Access to a plot to grow crops,G2. What do you think you need to make a living?/Access to a plot to grow crops,MakeLiving,,cat
+G2. Legal authorisation to access pastures,G2. What do you think you need to make a living?/Legal authorisation to access pastures,MakeLiving,,cat
+G2. Feeling safe so I can access pastures (because there are tensions with other people when I access pastures),G2. What do you think you need to make a living?/Feeling safe so I can access pastures (because there are tensions with other people when I access pastures),MakeLiving,,cat
+G2. Other need,G2. What do you think you need to make a living?/Other need,MakeLiving,,cat
+Resilient,"G4. Do you think that the assistance you receive today strengthens your ability to cope with difficulties, should a new shock occur tomorrow?",,target,to_code
+FuturePlan,G5. Do you think that aid allows you to better consider or plan for your future?,,target,to_code
+Optimism,G6. Are you optimistic about your child's or your children's future?,Resp-18,target,to_code
+G7. There are no/few educational opportunities,G7. What are your main concerns about the future of your child or children?/There are no/few educational opportunities,Optimism,,cat
+G7. Job opportunities are limited,G7. What are your main concerns about the future of your child or children?/Job opportunities are limited,Optimism,,cat
+G7. My child has to work instead of going to school,G7. What are your main concerns about the future of your child or children?/My child has to work instead of going to school,Optimism,,cat
+G7. My child will probably get married too soon,G7. What are your main concerns about the future of your child or children?/My child will probably get married too soon,Optimism,,cat
+G7. I'm afraid my child will be enlisted in armed groups,G7. What are your main concerns about the future of your child or children?/I'm afraid my child will be enlisted in armed groups,Optimism,,cat
+G7. I don't see an end to this precarious situation,G7. What are your main concerns about the future of your child or children?/I don't see an end to this precarious situation,Optimism,,cat
+G7. My child doesn't have enough to eat,G7. What are your main concerns about the future of your child or children?/My child doesn't have enough to eat,Optimism,,cat
+G7. Access to health services is limited,G7. What are your main concerns about the future of your child or children?/Access to health services is limited,Optimism,,cat
+G7. My child is sick,G7. What are your main concerns about the future of your child or children?/My child is sick,Optimism,,cat
+G7. My child is disabled,G7. What are your main concerns about the future of your child or children?/My child is disabled,Optimism,,cat
+"G7. My child is shocked, stressed, afraid of everything","G7. What are your main concerns about the future of your child or children?/My child is shocked, stressed, afraid of everything",Optimism,,cat
+G7. Living conditions are dangerous for my child (daily environment),G7. What are your main concerns about the future of your child or children?/Living conditions are dangerous for my child (daily environment),Optimism,,cat
+"G7. Not regaining social peace (distrust, inter-community social climate)","G7. What are your main concerns about the future of your child or children?/Not regaining social peace (distrust, inter-community social climate)",Optimism,,cat
+"G7. Sadness, loss of morale","G7. What are your main concerns about the future of your child or children?/Sadness, loss of morale",Optimism,,cat
+"G7. Loss of family property, no inheritance","G7. What are your main concerns about the future of your child or children?/Loss of family property, no inheritance",Optimism,,cat
+G7. Emotional loss/separation of a close relative,G7. What are your main concerns about the future of your child or children?/Emotional loss/separation of a close relative,Optimism,,cat
+"G7. Risk of being attacked, mine","G7. What are your main concerns about the future of your child or children?/Risk of being attacked, mine",Optimism,,cat
+G7. Risk of drug or alcohol use,G7. What are your main concerns about the future of your child or children?/Risk of drug or alcohol use,Optimism,,cat
+G7. Risk of not returning to live in the village,G7. What are your main concerns about the future of your child or children?/Risk of not returning to live in the village,Optimism,,cat
+G7. Another concern,G7. What are your main concerns about the future of your child or children?/Another concern,Optimism,,cat
+G7. I don't want to answer,G7. What are your main concerns about the future of your child or children?/I don't want to answer,Optimism,,cat
+Respect,G8. Do aid providers treat you with respect?,,,to_code

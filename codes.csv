@@ -1,0 +1,90 @@
+list name	label	coding	color
+Pbseeing	No - no difficulties	3	green
+Pbseeing	Yes - some difficulties	2	yellow
+Pbseeing	Yes - a lot of difficulties	1	orange
+Pbseeing	I don't see anything.	0	red
+PbHearing	No - no difficulties	3	green
+PbHearing	Yes - some difficulties	2	yellow
+PbHearing	Yes - a lot of difficulties	1	orange
+PbWalking	Yes - some difficulties	2	yellow
+PbWalking	No - no difficulties	3	green
+PbWalking	Yes - a lot of difficulties	1	orange
+PbWalking	I can't do that	0	red
+PbConcent	No - no difficulties	3	green
+PbConcent	Yes - a lot of difficulties	1	orange
+PbConcent	Yes - some difficulties	2	yellow
+PbSelfcare	No - no difficulties	3	green
+PbSelfcare	Yes - some difficulties	2	yellow
+PbSelfcare	Yes - a lot of difficulties	1	orange
+PbComm	No - no difficulties	3	green
+PbComm	Yes - some difficulties	2	yellow
+PbComm	Yes - a lot of difficulty	1	orange
+PbComm	It is impossible for me to communicate	0	red
+AppropBenef	Not really	1	orange
+AppropBenef	Mostly yes	3	lightgreen
+AppropBenef	Neutral	2	yellow
+AppropBenef	Not at all	0	red
+AppropBenef	Yes, very much	4	green
+FeelInformed	Not really	1	orange
+FeelInformed	Mostly yes	3	lightgreen
+FeelInformed	Neutral	2	yellow
+FeelInformed	Not at all	0	red
+FeelInformed	Yes, very much	4	green
+CommLeadShareInfo	Not really	1	orange
+CommLeadShareInfo	Not at all	0	red
+CommLeadShareInfo	Neutral	2	yellow
+CommLeadShareInfo	Yes, very much	4	green
+CommLeadShareInfo	Mostly yes	3	lightgreen
+SafeReceiving	Not applicable (N/A)	888	grey
+SafeReceiving	Mostly yes	3	lightgreen
+SafeReceiving	Neutral	2	yellow
+SafeReceiving	Yes, very much	4	green
+SafeReceiving	Not at all	0	red
+SafeReceiving	Not really	1	orange
+SafeSite	Yes, very much	4	green
+SafeSite	Mostly yes	3	lightgreen
+SafeSite	Not really	1	orange
+SafeSite	Neutral	2	yellow
+SafeSite	Not at all	0	red
+NeedPsychoSupp	Yes, very much	0	red
+NeedPsychoSupp	Not at all	4	green
+NeedPsychoSupp	Mostly yes	1	orange
+NeedPsychoSupp	Not really	3	lightgreen
+NeedPsychoSupp	Neutral	2	yellow
+NeedPsychoSupp	I do not wish to answer	888	grey
+CoverEssentialNeeds	Not really	1	orange
+CoverEssentialNeeds	Mostly yes	3	lightgreen
+CoverEssentialNeeds	Neutral	2	yellow
+CoverEssentialNeeds	Not at all	0	red
+CoverEssentialNeeds	Yes, very much	4	green
+RecAidTime	Not really	1	orange
+RecAidTime	Mostly yes	3	lightgreen
+RecAidTime	Not at all	0	red
+RecAidTime	Yes, very much	4	green
+RecAidTime	Neutral	2	yellow
+MakeLiving	Neutral	2	yellow
+MakeLiving	Not really	1	orange
+MakeLiving	Mostly yes	3	lightgreen
+MakeLiving	Yes, very much	4	green
+MakeLiving	Not at all	0	red
+Resilient	Not really	1	orange
+Resilient	Yes, very much	4	green
+Resilient	Not at all	0	red
+Resilient	Mostly yes	3	lightgreen
+Resilient	Neutral	2	yellow
+FuturePlan	Not really	1	orange
+FuturePlan	Neutral	2	yellow
+FuturePlan	Yes, very much	4	green
+FuturePlan	Not at all	0	red
+FuturePlan	Mostly yes	3	lightgreen
+Optimism	Mostly yes	3	lightgreen
+Optimism	Not really	1	orange
+Optimism	Not at all	0	red
+Optimism	Neutral	2	yellow
+Optimism	Yes, very much	4	green
+Optimism		888	grey
+Respect	Yes, very much	4	green
+Respect	Not really	1	orange
+Respect	Neutral	2	yellow
+Respect	Mostly yes	3	lightgreen
+Respect	Not at all	0	red
