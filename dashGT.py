@@ -5,7 +5,6 @@ import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
-from wordcloud import WordCloud, STOPWORDS
 import pickle
 import re
 from collections import Counter
