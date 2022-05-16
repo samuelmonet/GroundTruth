@@ -51,7 +51,7 @@ def main():
 
 	if topic == 'Machine learning results':
 		
-		st.write(questions)
+		#st.write(questions)
 		
 		
 		title1.title('Machine learning results on predictive model trained on question:')
